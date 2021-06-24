@@ -55,7 +55,7 @@ const Container = props => (
   <ScrollView
     style={{
       height: "100%",
-      backgroundColor: "white",
+      backgroundColor: "yellow",
     }}
   >
     {props.children || null}
